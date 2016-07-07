@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LockScreen</string>
+
+
+    <string name="start">启动</string>
+
+    <string name="myLock">我的锁屏</string>
+    <string name="title_activity_test">TestActivity</string>
 </resources>
